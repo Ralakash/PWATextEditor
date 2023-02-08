@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "PWATextEditor",
+			"path": "."
+		},
+		{
+			"name": "client",
+			"path": "../MSU-VIRT-FSF-PT-09-2022-U-LOLC/19-PWA/02-Challenge/Develop/client"
+		},
+		{
+			"name": "server",
+			"path": "../MSU-VIRT-FSF-PT-09-2022-U-LOLC/19-PWA/02-Challenge/Develop/server"
+		}
+	],
+	"settings": {}
+}
